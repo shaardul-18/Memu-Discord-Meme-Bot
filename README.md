@@ -111,10 +111,3 @@ discord-bot/
 
 ---
 
-## Acknowledgements
-
-* Codédex Discord Bot Tutorial
-* discord.py Documentation
-
----
-
